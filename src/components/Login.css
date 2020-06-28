@@ -1,0 +1,19 @@
+.centre{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.background{
+  background-image: url("../pics/4447.jpg");
+  background-repeat: no-repeat;
+  height: 100px;
+  width: 100px;
+}
+
+.link{
+  color: white;
+}

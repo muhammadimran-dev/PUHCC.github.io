@@ -1,0 +1,35 @@
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: black;
+  }
+
+  .centeredl1 {
+    position: absolute;
+    top: 38%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: black;
+  }
+
+  .centeredl2 {
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    color: black;
+  }
+
+
+  .imgcontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
